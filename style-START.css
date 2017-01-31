@@ -12,6 +12,10 @@ body {
   box-sizing: inherit;
 }
 
+.fixed-nav nav{
+  position: fixed;
+}
+
 .site-wrap {
   max-width: 700px;
   margin: 70px auto;
@@ -26,7 +30,8 @@ body {
 header {
   text-align: center;
   height:50vh;
-  background:url(http://wes.io/iEgP/wow-so-deep.jpg) bottom center no-repeat;
+  background:url(https://media.licdn.com/media/AAEAAQAAAAAAAAjOAAAAJDNiMTgzYjcxLTViNTYtNGZkYS05ZTAyLWRmMTI0NGY0MzgzYQ.jpg) center no-repeat;
+  -webkit-text-stroke: 1px black;
   background-size:cover;
   display:flex;
   align-items:center;
