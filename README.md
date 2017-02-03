@@ -1,6 +1,6 @@
 # navBar
 
-[live drums!](https://skdkim.github.io/navBar/)
+[live link](https://skdkim.github.io/navBar/)
 
 Check out my full [portfolio](http://www.davidkim.tech/)!
 
